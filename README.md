@@ -6,3 +6,5 @@ $ cd Xnxxx
 $ ls
 
 $ python yotta.py
+
+# Yang mau donate buat kuota Kirim ke no dana 088299210405
